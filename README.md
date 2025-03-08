@@ -11,13 +11,16 @@ A Unity-based toolkit/framework designed to simplify the creation of 2D top-down
     - **Items**: Players can collect items by interacting with them. These items are added to the player's inventory and saved locally in a JSON file.
 
 
-### Installation
+## Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/AlexKoulel/Topdown2DToolKit.git
 
-2. Open Unity Hub and on click **Add->Add project from disk**.
+2. Open Unity Hub and click **Add->Add project from disk**.
 3. Navigate to the directory where you cloned the project, select it and open the project.
 4. If the project opens in an empty scene, navigate to **Assets -> Scenes -> base-scene** to load the default scene.
+
+## Demo
+To see a demonstration of the toolkit in action, try the [exploration game I developed with this framework](https://ottware.itch.io/beyond-lethe).
